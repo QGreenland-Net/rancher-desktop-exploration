@@ -1,5 +1,10 @@
 # Rancher Desktop exploration
 
+This repository has been archived.
+
+This repository was created to explore the use of Rancher Desktop for local
+development of the OGDC. QGreenland-Net developers have adopted Rancher Desktop.
+
 ## Linux installation
 
 Followed
